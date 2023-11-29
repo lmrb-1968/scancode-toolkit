@@ -11,7 +11,7 @@ click==8.0.1
 colorama==0.4.4
 commoncode==30.0.0
 construct==2.10.67
-cryptography==3.4.7
+cryptography==41.0.6
 debian-inspector==30.0.0
 dparse==0.5.1
 extractcode==21.7.23
